@@ -1,1 +1,1 @@
-# thinslice_public_speaking
+# thinslice_ps
